@@ -1,51 +1,28 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Welcome to my profile  
 
-💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.  
-🚀 Estudante de **Análise e Desenvolvimento de Sistemas**.  
-📊 Aqui você vai encontrar meus projetos, estudos e experimentos em programação.  
+🚀 Student of **Analysis and Systems Development at FIAP**.  
+📊 Here you will find my projects, studies, and programming experiments.  
 
 ---
 
-## 📈 Estatísticas do GitHub  
-
 <div align="center">
 
-<!-- Stats gerais -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaoGFG&show_icons=true&theme=radical&count_private=true)
+<!-- General Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoGFG&show_icons=true&theme=radical&count_private=true)
 
-<!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoGFG&layout=compact&theme=radical)
-
-<!-- Streak (dias de contribuição) -->
+<!-- Streak (contribution days) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaoGFG&theme=radical&hide_border=false)
 
-</div>
-
----
-
-## 🛠️ Tecnologias que uso  
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- Recent Activity Graph -->
+![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=joaoGFG&theme=radical)
 
 </div>
 
 ---
 
-## 🔥 Um pouco mais sobre mim  
-- 📚 Atualmente aprendendo **Machine Learning e IA aplicada**  
-- 🌱 Construindo projetos práticos para o portfólio  
-- 🎯 Focado em **fullstack e dados**  
-- 🎮 No tempo livre: games, academia e cultura japonesa 🇯🇵  
+## About Me
+- 📚 Currently learning **Cloud, DevOps, and Generative AIs**  
+- 🌱 Currently building 2 personal projects  
+- 🎯 Practicing every day is what makes the difference  
 
 ---
-
-✨ Obrigado por visitar meu perfil! 🚀  
