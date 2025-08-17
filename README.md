@@ -7,9 +7,6 @@
 
 <div align="center">
 
-<!-- General Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoGFG&show_icons=true&theme=radical&count_private=true)
-
 <!-- Streak (contribution days) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaoGFG&theme=radical&hide_border=false)
 
