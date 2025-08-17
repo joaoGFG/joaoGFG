@@ -20,29 +20,6 @@
 
 ---
 
-## 📊 My Stats  
-
-<div align="center">
-
-<!-- Profile summary -->
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoGFG&theme=radical)  
-
-<!-- Stats -->
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoGFG&theme=radical)  
-
-<!-- Most used languages by commits (HTML excluded) -->
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoGFG&theme=radical&exclude=html)  
-
-<!-- Repositories per Language (HTML excluded) -->
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoGFG&theme=radical&exclude=html)  
-
-<!-- Productive time -->
-![Commits per Day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoGFG&theme=radical&utcOffset=-3)  
-
-</div>
-
----
-
 ## About Me
 - 📚 Currently learning **Cloud, DevOps, and Generative AIs**  
 - 🌱 Currently building 2 personal projects  
