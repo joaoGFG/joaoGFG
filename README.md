@@ -13,9 +13,6 @@
 <!-- Streak (contribution days) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaoGFG&theme=radical&hide_border=false)
 
-<!-- Recent Activity Graph -->
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=joaoGFG&theme=radical)
-
 </div>
 
 ---
