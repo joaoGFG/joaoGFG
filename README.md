@@ -11,13 +11,13 @@
 <div align="center">
 
 <!-- Stats gerais -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaoGFG&show_icons=true&theme=radical&count_private=true)
 
 <!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoGFG&layout=compact&theme=radical)
 
 <!-- Streak (dias de contribuição) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=joaoGFG&theme=radical&hide_border=false)
 
 </div>
 
