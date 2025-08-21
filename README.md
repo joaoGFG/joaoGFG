@@ -1,7 +1,8 @@
-# 👋 Welcome to my profile!  
+# 👋 Welcome to my profile  
 
-🚀 Student of **Analysis and Systems Development at FIAP**.  
-📊 Here you will find my projects, studies, and programming experiments.  
+I’m a second-year Systems Analysis and Development student at FIAP, building my journey with curiosity and dedication. I’ve gained hands-on experience with front-end and back-end development using Java, Python, TypeScript, React, Next.js, MySQL, and REST APIs, while also practicing Git for version control and applying clean code principles. My projects have included accessibility tools for visually impaired people, sustainability apps for carbon footprint tracking, and AI-driven predictive systems for flood alerts — experiences that showed me how technology can go beyond code and create meaningful impact.  
+
+I’m currently expanding my knowledge in Cloud and DevOps, aiming to design modern and scalable solutions. I thrive in dynamic, collaborative environments, enjoy leading when needed, and value communication and teamwork. Above all, I believe technology makes sense only when it improves people’s lives, even in small ways — and I’m looking forward to opportunities where I can grow, keep learning, and contribute to projects that truly matter.  
 
 ---
 
@@ -47,9 +48,20 @@
 <img src="https://img.shields.io/badge/React%20Native-black?style=flat-square&logo=react&logoColor=61DAFB"/>  
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>  
 
+<!-- Linha 4 - Novas skills -->
+<img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=FF9900"/>  
+<img src="https://img.shields.io/badge/Cloud-black?style=flat-square&logo=icloud&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Quarkus-black?style=flat-square&logo=quarkus&logoColor=4695EB"/>  
+<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=150458"/>  
+<img src="https://img.shields.io/badge/Scikit--Learn-black?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>  
+<img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>  
+<img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>  
+
 </div>
 
 ---
+
+## 📫 Connect with me  
 
 <div align="center">
 
