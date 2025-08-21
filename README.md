@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile  
+# 👋 Welcome to my profile!  
 
 🚀 Student of **Analysis and Systems Development at FIAP**.  
 📊 Here you will find my projects, studies, and programming experiments.  
@@ -26,32 +26,30 @@
 <div align="center">
 
 <!-- Linha 1 -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=F05032"/>  
+<img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=FCC624"/>  
+<img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=F24E1E"/>  
+<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED"/>  
+<img src="https://img.shields.io/badge/VirtualBox-black?style=flat-square&logo=virtualbox&logoColor=183A61"/>  
 
 <!-- Linha 2 -->
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql&logoColor=336791"/>  
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=3776AB"/>  
+<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=ED8B00"/>  
+<img src="https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F"/>  
+<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6"/>  
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"/>  
 
 <!-- Linha 3 -->
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
+<img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=512BD4"/>  
+<img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=239120"/>  
+<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB"/>  
+<img src="https://img.shields.io/badge/React%20Native-black?style=flat-square&logo=react&logoColor=61DAFB"/>  
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>  
 
 </div>
 
 ---
-
-## 📫 Connect with me  
 
 <div align="center">
 
