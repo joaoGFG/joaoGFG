@@ -16,7 +16,7 @@ I’m currently expanding my knowledge in Cloud (Azure and AWS) and DevOps, aimi
 ---
 
 ## About Me
-- 📚 Currently learning **Cloud, DevOps, and Generative AIs**  
+- 📚 Currently learning **Cloud, ITIL, DevOps, and Generative AIs**  
 - 🌱 Currently building 2 personal projects  
 - 🎯 Practicing every day makes the difference  
 
