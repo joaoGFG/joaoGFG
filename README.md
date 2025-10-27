@@ -18,7 +18,6 @@ I’m currently expanding my knowledge in Cloud (Lambda and SQS) and DevOps, aim
 ## About Me
 - 📚 Currently learning **Cloud, ITIL, DevOps, and Generative AIs**  
 - 🌱 Currently building 2 personal projects  
-- 🎯 Practicing every day makes the difference  
 
 ---
 
