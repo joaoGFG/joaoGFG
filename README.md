@@ -8,9 +8,6 @@ I’m currently expanding my knowledge in Cloud (Lambda and SQS) and DevOps, aim
 
 <div align="center">
 
-<!-- Streak (contribution days) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=joaoGFG&theme=radical&hide_border=false)
-
 </div>
 
 ---
