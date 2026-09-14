@@ -1,14 +1,10 @@
 # 👋 Hi, Im João! Welcome to my profile  
 
-I’m a second-year Systems Analysis and Development student at FIAP, building my journey with curiosity and dedication. I’ve gained hands-on experience with front-end and back-end development using Java (Spring and Quarkus), Python, TypeScript, React, Next.js, MySQL, and  API development, while also practicing Git for version control and applying clean code principles. My projects have included APIs REST, accessibility tools for visually impaired people, sustainability apps for carbon footprint tracking, and AI-driven predictive systems for flood alerts, experiences that showed me how technology can go beyond code and create meaningful impact.  
+I’m a developer focused on backend development, with a strong interest in Java, Spring Boot, REST APIs, and integrations. I’ve worked with Java, Quarkus, Python, TypeScript, React, Next.js, MySQL, Oracle, and Docker, building projects that range from banking and AI-powered applications to accessibility and sustainability solutions.
 
-I’m currently expanding my knowledge in Cloud (Lambda and SQS) and DevOps, aiming to design modern and scalable solutions. I thrive in dynamic, collaborative environments, enjoy leading when needed, and value communication and teamwork. Above all, I believe technology makes sense only when it improves people’s lives, even in small ways, and I’m looking forward to opportunities where I can grow, keep learning, and contribute to projects that truly matter.  
+I enjoy understanding how systems work end to end, from API design and databases to authentication, cloud services, and deployment. I’m currently deepening my knowledge of AWS, DevOps, distributed systems, and technologies like Kafka, Lambda, and SQS.
 
----
-
-## About Me
-- 📚 Currently learning **Cloud, ITIL, DevOps, and Generative AIs**  
-- 🌱 Currently building 2 personal projects  
+I like building things, solving problems, and learning by doing. I’m especially interested in backend projects that are practical, scalable, and actually useful.
 
 ---
 
